@@ -1,0 +1,6 @@
+{
+  "name": "Gaurav Kumar Chaudhary Portfolio",
+  "description": "An interactive cyber-physical portfolio system bridging hardware systems logic and full-stack software development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
