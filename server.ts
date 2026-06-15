@@ -4,7 +4,7 @@ import cors from "cors";
 import dotenv from "dotenv";
 import mongoose from "mongoose";
 import nodemailer from "nodemailer";
-import { MessageModel } from "./src/db/Message";
+import { MessageModel } from "./src/db/Message.ts";
 import { GoogleGenAI } from "@google/genai";
 
 dotenv.config({ override: true });
